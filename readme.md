@@ -1,13 +1,14 @@
 <!-- ---
-title: Learning Robot Structure and Pose Embeddings using Graph Neural Networks
-subtitle: @ICML22-MLCD
+title: How to Train Your Guide Dog: Wayfinding and Safe Navigation with Human-Robot Modeling
+subtitle: @HRI2023LBR
 --- -->
 
-## Learning Robot Structure and Pose Embeddings using Graph Neural Networks
-### @[ICML22](icml.cc)-[MLCD](https://mlcompdesign.github.io/)
-### [Project Website](https://delico123.github.io/mlcd22-gnn4robots)
+## How to Train Your Guide Dog: Wayfinding and Safe Navigation with Human-Robot Modeling
+### @[HRI2023-LBR](https://humanrobotinteraction.org/2023)
+### [Project Website](https://delico123.github.io/hri23lbr-guidedog)
 ### Authors
-- Joanne T Kim (Georgia Institute of Technology)
-- Jeongeun Park (Korea University)
-- Sungjoon Choi (Korea University)
+- J Taery Kim (Georgia Institute of Technology)
+- Wenhao Yu (Robotics at Google)
+- Jie Tan (Robotics at Google)
+- Greg Turk (Georgia Institute of Technology)
 - Sehoon Ha (Georgia Institute of Technology)
