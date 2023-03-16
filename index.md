@@ -1,14 +1,17 @@
-### This work will be presented at [ICML22](icml.cc) Workshop on [ML in Computational Design](http://mlcompdesign.github.io/).
+### This work will be presented at [HRI 2023](https://humanrobotinteraction.org/2023) during Late-Breaking Report Session. 
+#### # Poster on Day 3 (Thursday, March 16) @Fögelström (#128)
+#### # Also available via Hopin expo!
 
 ## Abstract
-We propose a learning framework to find the representation of a robot's kinematic structure and pose embedding spaces using graph neural networks (GNN). Finding a compact and low-dimensional embedding space for complex phenomena is a key for understanding its behaviors, which may lead to a better learning performance, as we observed in other domains of images or languages. However, although numerous applications deal with various types of structural and motion data, the embedding of the generated data has been relatively less studied by roboticists. To this end, our work aims to learn embeddings for two types of robotic data: the robot's design structure, such as links, joints, and their relationships, and the pose data, such as kinematic joint positions. Our method exploits the tree structure of the robot to train appropriate embeddings to the given robot data. To avoid overfitting, we formulate multi-task learning to find a general representation of the embedding spaces. We evaluate the proposed learning method on a robot with a simple linear structure and visualize the learned embeddings using t-SNE. We also study a few design choices of the learning framework, such as network architectures and message passing schemes.
+A robot guide dog has the potential to enhance the independence and quality of life of individuals who are blind or visually impaired by providing accessible, automated, and intelligent guidance. However, developing effective robot guide dogs requires researchers not only to solve robotic perception and planning problems but also to understand complicated two-way interactions of the human-robot team. This work presents the formal definition of the wayfinding task of the robotic guide dog that is grounded by common practices in the real world. Given such a task, we train an effective policy for the robot guide dog while investigating two different human models, a rotating rod model and a rigid harness model. We show that our robot can safely guide a human user to avoid several obstacles in the real world. We also demonstrate that a proper human model is necessary to achieve collision-free navigation for both the human and the robot.
 
 ### Learn more here
-[\[arXiv\]](https://arxiv.org/abs/2109.07543)
-[\[PDF\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd.pdf)
-[\[Video\]](/mlcd22-gnn4robots/docs/assets/icml22-mlcd-gnnrobot.mp4)
-[\[Poster\]](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd-poster.pdf)
-![GIF](/mlcd22-gnn4robots/docs/assets/gnn4robots-icml22mlcd.gif)
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3568294.3580076)
+[\[Poster\]](/hri23lbr-guidedog/docs/assets/hri23lbr-guidedog-poster.pdf)
+<!-- [\[Video\]](https://www.youtube.com/watch?v=8W0QKgvHV1M&feature=youtu.be) -->
+[![Youtube Video](https://img.youtube.com/vi/8W0QKgvHV1M/0.jpg)](https://www.youtube.com/watch?v=8W0QKgvHV1M)
+<!-- [\[Video\]](/mlcd22-gnn4robots/docs/assets/icml22-mlcd-gnnrobot.mp4) -->
+<!-- ![GIF](/mlcd22-gnn4robots/docs/assets/hri23lbr-guidedog-gif.gif) -->
 
 ### Contact
 [taerykim@gatech.edu](mailto:taerykim@gatech.edu)
