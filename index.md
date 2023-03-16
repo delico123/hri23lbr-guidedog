@@ -7,8 +7,8 @@ A robot guide dog has the potential to enhance the independence and quality of l
 
 ### Learn more here
 [\[Paper\]](https://dl.acm.org/doi/10.1145/3568294.3580076)
-[\[Poster\]](/hri23lbr-guidedog/docs/assets/hri23lbr-guidedog-poster.pdf)
-<!-- [\[Video\]](https://www.youtube.com/watch?v=8W0QKgvHV1M&feature=youtu.be) -->
+[\[Poster\]](/hri23lbr-guidedog/docs/assets/hri2023-guidedog-poster.pdf)
+[\[Video\]](https://www.youtube.com/watch?v=8W0QKgvHV1M&feature=youtu.be)
 [![Youtube Video](https://img.youtube.com/vi/8W0QKgvHV1M/0.jpg)](https://www.youtube.com/watch?v=8W0QKgvHV1M)
 <!-- [\[Video\]](/mlcd22-gnn4robots/docs/assets/icml22-mlcd-gnnrobot.mp4) -->
 <!-- ![GIF](/mlcd22-gnn4robots/docs/assets/hri23lbr-guidedog-gif.gif) -->
